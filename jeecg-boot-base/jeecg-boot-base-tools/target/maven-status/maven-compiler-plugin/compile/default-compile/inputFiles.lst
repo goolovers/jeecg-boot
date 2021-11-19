@@ -1,0 +1,14 @@
+/Users/xiaopenghao/Documents/java_space/jeecg-boot-master/jeecg-boot/jeecg-boot-base/jeecg-boot-base-tools/src/main/java/org/jeecg/common/modules/redis/config/RedisConfig.java
+/Users/xiaopenghao/Documents/java_space/jeecg-boot-master/jeecg-boot/jeecg-boot-base/jeecg-boot-base-tools/src/main/java/org/jeecg/common/base/BaseMap.java
+/Users/xiaopenghao/Documents/java_space/jeecg-boot-master/jeecg-boot/jeecg-boot-base/jeecg-boot-base-tools/src/main/java/org/jeecg/common/util/SpringContextHolder.java
+/Users/xiaopenghao/Documents/java_space/jeecg-boot-master/jeecg-boot/jeecg-boot-base/jeecg-boot-base-tools/src/main/java/org/jeecg/common/annotation/RabbitComponent.java
+/Users/xiaopenghao/Documents/java_space/jeecg-boot-master/jeecg-boot/jeecg-boot-base/jeecg-boot-base-tools/src/main/java/org/jeecg/common/modules/redis/client/JeecgRedisClient.java
+/Users/xiaopenghao/Documents/java_space/jeecg-boot-master/jeecg-boot/jeecg-boot-base/jeecg-boot-base-tools/src/main/java/org/jeecg/common/config/mqtoken/TransmitUserTokenFilter.java
+/Users/xiaopenghao/Documents/java_space/jeecg-boot-master/jeecg-boot/jeecg-boot-base/jeecg-boot-base-tools/src/main/java/org/jeecg/common/config/CommonConfig.java
+/Users/xiaopenghao/Documents/java_space/jeecg-boot-master/jeecg-boot/jeecg-boot-base/jeecg-boot-base-tools/src/main/java/org/jeecg/common/config/mqtoken/UserTokenContext.java
+/Users/xiaopenghao/Documents/java_space/jeecg-boot-master/jeecg-boot/jeecg-boot-base/jeecg-boot-base-tools/src/main/java/org/jeecg/common/modules/redis/writer/JeecgRedisCacheWriter.java
+/Users/xiaopenghao/Documents/java_space/jeecg-boot-master/jeecg-boot/jeecg-boot-base/jeecg-boot-base-tools/src/main/java/org/jeecg/common/modules/redis/listener/JeecgRedisListerer.java
+/Users/xiaopenghao/Documents/java_space/jeecg-boot-master/jeecg-boot/jeecg-boot-base/jeecg-boot-base-tools/src/main/java/org/jeecg/common/constant/CacheConstant.java
+/Users/xiaopenghao/Documents/java_space/jeecg-boot-master/jeecg-boot/jeecg-boot-base/jeecg-boot-base-tools/src/main/java/org/jeecg/common/modules/redis/receiver/RedisReceiver.java
+/Users/xiaopenghao/Documents/java_space/jeecg-boot-master/jeecg-boot/jeecg-boot-base/jeecg-boot-base-tools/src/main/java/org/jeecg/common/constant/GlobalConstants.java
+/Users/xiaopenghao/Documents/java_space/jeecg-boot-master/jeecg-boot/jeecg-boot-base/jeecg-boot-base-tools/src/main/java/org/jeecg/common/util/RedisUtil.java
