@@ -37,6 +37,4 @@ Jeecg-Boot 低代码开发平台
 ## 技术文档
 
 
-- 在线演示 ：  [http://boot.jeecg.com](http://boot.jeecg.com)
-
-- 在线文档：  [http://doc.jeecg.com](http://doc.jeecg.com)
+- 在线文档：  [http://doc.jeecg.com](http://doc.jeecg.com) 
